@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     }
                 }
 
-                typingIntervalDiv2 = setInterval(typing, 100);
+                typingIntervalDiv2 = setInterval(typing, 70);
             }
         });
     }, { threshold: 0.5 }); // 50% 이상 보일 때 이벤트 실행
