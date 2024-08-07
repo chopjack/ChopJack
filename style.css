@@ -96,6 +96,9 @@ a:hover {
     .image {
         width: 30%;
     }
+    #main111{
+        font-size: 100px;
+    }
 
     .div3{
         font-size: x-large;
@@ -110,10 +113,6 @@ a:hover {
         color: #f9f9f9;
     }
 
-    #main111{
-        font-size:80px;
-    }
-    
     
 }
 
@@ -144,7 +143,7 @@ a:hover {
     left: 50%;
     transform: translate( -50%, -50% );
     color: rgb(255, 255, 255);
-    font-size: 60%;
+
     font-style: oblique;
 }
 
@@ -185,7 +184,7 @@ a:hover {
 }
 
 #main111{
-        font-size:40px;
+        font-size:35px;
 }
 
 
@@ -194,5 +193,3 @@ a:hover {
     font-size: 60px;
     color: #f9f9f9;
 }
-
-
