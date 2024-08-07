@@ -111,7 +111,7 @@ a:hover {
     }
 
     #main111{
-        font-size:60px;
+        font-size:80px;
     }
     
     
@@ -144,7 +144,7 @@ a:hover {
     left: 50%;
     transform: translate( -50%, -50% );
     color: rgb(255, 255, 255);
-    font-size: 50%;
+    font-size: 60%;
     font-style: oblique;
 }
 
